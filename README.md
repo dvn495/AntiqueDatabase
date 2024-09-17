@@ -1,3 +1,8 @@
+![](/img/logico.png)
+
+![](/img/Entidades.png)
+
+
 ### Consultas SQL
 
 1. Consulta para listar todas las antigüedades disponibles para la venta:
